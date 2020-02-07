@@ -1,0 +1,4 @@
+[submodule "ml-workflow-data-layer"]
+	path = ml-workflow-data-layer
+	url = https://github.com/giacomo-montibeller/ml-workflow-data-layer
+	branch = master
