@@ -2,3 +2,7 @@
 	path = ml-workflow-data-layer
 	url = https://github.com/giacomo-montibeller/ml-workflow-data-layer
 	branch = master
+[submodule "ml-workflow-model-layer"]
+	path = ml-workflow-model-layer
+	url = https://github.com/giacomo-montibeller/ml-workflow-model-layer
+	branch = master
